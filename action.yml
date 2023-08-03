@@ -2,6 +2,7 @@ name: GitHub - Activity - Readme
 description: Updates README with the recent GitHub activity of a user
 author: jamesgeorge007
 
+
 inputs:
   GH_USERNAME:
     description: "Your GitHub username"
